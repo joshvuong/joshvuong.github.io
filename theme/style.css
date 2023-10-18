@@ -1,7 +1,8 @@
 html, body {
-    margin: 10;
+    margin: auto; 
+    padding-left: 10;
     border: 0;
-    font-size: 100%;
+    font-size: 80%;
     background-color: #000000;
     color: #ffffff;
   }
